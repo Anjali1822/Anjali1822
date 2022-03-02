@@ -1,4 +1,4 @@
-- <h1 align="center">Hi 👋, I'm Anjali Bhawari</h1>
+<h1 align="center">Hi 👋, I'm Anjali Bhawari</h1>
 -  I am currently pursuing my Bachelor's of Engineering in INFORMATION TECHNOLOGY from K. K. Wagh Institute of Engineering Education & Research, Nashik.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali1822&label=Profile%20views&color=0e75b6&style=flat" alt="anjali1822" /> </p>
 
