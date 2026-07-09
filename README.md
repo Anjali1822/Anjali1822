@@ -114,15 +114,7 @@
 
 ---
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anjali1822&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true&row=1"/>
-</p>
-
----
 
 # 👀 Profile Views
 
